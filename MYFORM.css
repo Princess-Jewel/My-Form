@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 80px;
+    font-weight: bold;
+    color:black;
+}
+body{
+    background-color:rgb(255, 136, 0);
+}
+.my-form{
+    padding:20px;
+}
+.my-form .form-group{
+    padding-bottom: 15px;
+
+}
+.my-form label{
+    display:block;
+}
+.my-form input[type="text"]{
+    padding: 5px;
+    width:50%
+}
+textarea{
+    width:50%;
+    padding:40px;
+}
+.button{
+    background-color: #333333;
+    color:#fff;
+    padding:10px 15px;
+    border:none;
+}
+label{
+    font-size: 30px;
+}
+.button:hover{
+    background-color: red;
+    color:#fff;
+}
+#mainfooter{
+    height: 25px;
+    margin-top: 30px;
+    padding: 20px;
+    background:rgb(78, 70, 70);
+    text-align: center;
+    clear: both;
+    position: bottom;
+    color:white;
+}
+.block{
+    float:left;
+    width:50%;
+}
+h3{
+    text-decoration:underline;
+}
